@@ -13,3 +13,7 @@ pip install -r requirements.txt
 ```bash
 python main.py
 ```
+
+### Step 3 - Create an Account in PyPI.org
+
+Go to Account setting -> and create a token
